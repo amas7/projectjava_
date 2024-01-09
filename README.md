@@ -3,6 +3,7 @@
 requirement
 
 au moins 10 héritages ok (en comptant 1 heritage pour l'affichage graphique)
+
 interface graphique ok
 You must use constructor chaining in at least two of your constructors. ok
 You must use method overloading at least once. ok
